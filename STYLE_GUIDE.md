@@ -82,4 +82,4 @@ Do not use vague messages like "update stuff".
 
 - mypy for type checking
 
-### Maintaining consistent style ensures readability, quality, and easier collaboration.
+Maintaining consistent style ensures readability, quality, and easier collaboration.
