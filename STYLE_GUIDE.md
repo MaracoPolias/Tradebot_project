@@ -32,3 +32,54 @@ def rsi(values: list[float], period: int = 14) -> float:
 ### Logging
 
 - Use logging instead of print().
+
+## 2. Documentation Style
+
+- Use concise, professional language
+
+- Prefer clarity over cleverness
+
+- Use Markdown headings consistently
+
+- Provide copy-paste-ready code examples
+
+- Keep lines narrow for GitHub readability
+
+- Update docs when behavior changes
+
+## 3. Commit Message Guidelines
+
+Use a descriptive prefix:
+
+feat: add neural threshold tuner
+fix: correct API error handling
+docs: update contributing guide
+refactor: simplify execution loop
+test: add unit tests for position engine
+
+
+Do not use vague messages like "update stuff".
+
+## 4. File Structure Guidelines
+
+- Group related components together
+
+- Keep modules logically separated
+
+- Avoid large monolithic files
+
+- Prefer multiple small, cohesive modules
+
+## 5. Editor and Linter Configuration
+
+### Recommended tools:
+
+- black or autopep8 for formatting
+
+- flake8 for linting
+
+- isort for import ordering
+
+- mypy for type checking
+
+### Maintaining consistent style ensures readability, quality, and easier collaboration.
