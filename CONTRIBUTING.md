@@ -160,8 +160,9 @@ Do not report security issues publicly.
 
 If you believe you have identified a vulnerability, please contact:
 
-security@tradebot-project.com
- (replace with the correct address if needed)
+githubtradebot@maildrop.cc
+
+and a third party will respond.
 
 Responsible disclosure helps protect users and maintainers.
 
